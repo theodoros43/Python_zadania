@@ -1,0 +1,10 @@
+<books>
+    <book title="Metro 2033">
+        <type>Postapo</type>
+        <author>Dmitry_Gluckovsky</author>
+    </book>
+    <book title="Kropki">
+        <type>Autobiography</type>
+        <author>Wlodek_Markowicz</author>
+    </book>
+</books>

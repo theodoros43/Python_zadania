@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<books>
+    <book title="Metro 2033">
+        <type>Postapo</type>
+        <author>niktnic</author>
+    </book>
+    <book title="Kropki">
+        <type>Autobiography</type>
+        <author>niktnic</author>
+    </book>
+</books>

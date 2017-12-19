@@ -1,0 +1,10 @@
+<?xml version="1.0" ?><books>
+    <book title="Metro 2033">
+        <type>Postapo</type>
+        <author>Good gopnik guy</author>
+    </book>
+    <book title="Kropki">
+        <type>Autobiography</type>
+        <author>Good gopnik guy</author>
+    </book>
+</books>
